@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/businesscentralapps/tmpDQopDM-Actions/main/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmpDQopDM-PTE@main"
+}
